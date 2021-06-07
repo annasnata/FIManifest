@@ -1,0 +1,38 @@
+{
+  "name": "FAKTAISLAM",
+  "short_name": "FaktaIslam",
+  "start_url": "https://faktaislam.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#42e330",
+  "description": "Fakta Islam memberikan informasi-informasi berupa fakta atau nyata yang berkaitan dengan agama Islam.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-7z7B2agpTMo/YL4sVZ79syI/AAAAAAAAAcQ/D7VVIU6eQtcHAeqM9hLTLrZZL7Hq4lOfACLcBGAsYHQ/s0/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-amBF1v8DT-Q/YL4sVakHenI/AAAAAAAAAcU/hxasNm7DYEU-_JpqJPUhzeYZckDddToeQCLcBGAsYHQ/s0/apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-akCeSBKEmi8/YL4sWK5KzVI/AAAAAAAAAcc/O64oDb1EgkAE7qgl16LlxD9svyrerbU1gCLcBGAsYHQ/s0/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-X-gAqdflxss/YL4ZkcHgwTI/AAAAAAAAAbw/UArJuDqyBZ4_64b_DZyeH_o49r_rwqs6ACLcBGAsYHQ/s0/ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SzgqCVGK2Mw/YL4sVbK-kRI/AAAAAAAAAcY/-yuzDZR1o3sTsPROYV0M0al41zVT0FN2ACLcBGAsYHQ/s0/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--1rTguPTU_k/YL4ZjiVy9aI/AAAAAAAAAbk/nguoJG4PMtQjUsl0rzIymz5JQSwjY4ANQCLcBGAsYHQ/s0/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SzgqCVGK2Mw/YL4sVbK-kRI/AAAAAAAAAcY/-yuzDZR1o3sTsPROYV0M0al41zVT0FN2ACLcBGAsYHQ/s0/apple-icon-152x152.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
